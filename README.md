@@ -24,7 +24,8 @@ Clone o repositório:
 bash
 Copiar
 Editar
-git clone 
+git clone secret-number-neon-five.vercel.app
+
 Abra o arquivo index.html no navegador.
 
 🚀 Melhorias futuras (ideias)
@@ -71,7 +72,8 @@ Clone the repository:
 bash
 Copiar
 Editar
-git clone 
+git clone secret-number-neon-five.vercel.app
+
 Open the index.html file in your browser.
 
 🚀 Future Improvements (ideas)
