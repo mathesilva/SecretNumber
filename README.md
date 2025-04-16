@@ -37,3 +37,50 @@ Sons de acerto/erro
 Design responsivo para mobile
 
 📸 Preview
+
+
+
+
+
+
+
+
+🔢 Secret Number Game
+A simple game built with HTML, CSS, and JavaScript where the goal is to guess the secret number randomly chosen between 1 and 10.
+With each attempt, the game will tell you whether the secret number is higher or lower than your guess — until you get it right!
+
+🎮 How to Play
+The game randomly selects a secret number between 1 and 10.
+
+Enter your guess and click "Guess".
+
+The game will tell you if the secret number is higher or lower.
+
+Once you guess correctly, it will show how many attempts you took!
+
+💡 Tech Stack
+HTML5
+
+CSS3 (basic styling)
+
+JavaScript (game logic)
+
+📦 How to Run the Project
+Clone the repository:
+
+bash
+Copiar
+Editar
+git clone 
+Open the index.html file in your browser.
+
+🚀 Future Improvements (ideas)
+Add a "Hard Mode" (number between 1 and 100)
+
+Add animations or transitions
+
+Sound effects for win/loss
+
+Responsive design for mobile
+
+📸 Preview
